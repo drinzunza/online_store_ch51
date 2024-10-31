@@ -1,0 +1,38 @@
+.admin {
+    background-color: aliceblue;
+    padding: 20px 0;    
+}
+
+.admin h3 {
+    color: darkcyan;
+    text-align: center;
+    margin-top: 0;
+}
+
+.admin .parent {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+.admin .parent .products {
+    width: 550px;
+    border: 1px solid #dededf;
+    background-color: white;
+    padding: 12px;
+    margin-right: 20px;
+}
+
+.admin .parent .coupons {
+    width: 420px;
+    border: 1px solid #dededf;
+    background-color: white;
+    padding: 12px;
+    margin-left: 20px;
+}
+
+.admin .controls
+ {
+    margin-top: 12px;
+    text-align: center;
+ }

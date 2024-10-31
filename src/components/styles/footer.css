@@ -1,0 +1,15 @@
+.footer{
+    background-color: #616e71;
+    color: white;
+}
+
+.footer .content{
+    display: flex;
+    padding-bottom: 10px;
+    justify-content: center;
+}
+
+
+.footer hr {
+    margin-top: 0;
+}
